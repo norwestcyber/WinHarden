@@ -1,5 +1,6 @@
 #Requires -Version 5.1
 #Requires -RunAsAdministrator
+
 <#
 .SYNOPSIS
     Hardens a Windows 10/11 workstation: firewall cleanup, bloatware removal,

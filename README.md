@@ -1,8 +1,8 @@
-# WinHardening: Windows 10/11 workstation hardening
+# WinHarden: Windows 10/11 workstation hardening
 
 A PowerShell script that hardens a Windows workstation in four parts: it cleans up the firewall, removes bloatware, disables unneeded services and applies a set of low-risk security settings.
 
-**This script changes the system.** Run it with `-WhatIf` first to see exactly what it would do. For read-only diagnosis (Windows Update failures, compromise indicators, Edge/Copilot abuse), use the separate **WinDiag** toolkit.
+**This script changes the system.** Run it with `-WhatIf` first to see exactly what it would do. For read-only diagnosis (Windows Update failures, compromise indicators, Edge/Copilot abuse), use the separate [WinDiag](https://github.com/norwestcyber/WinDiag) toolkit.
 
 ## Files
 
